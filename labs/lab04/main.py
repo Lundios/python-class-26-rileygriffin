@@ -5,16 +5,6 @@
 # Riley Griffin
 
 import random
-"""Be sure to use functions as the starting program does.
-Ask for player's name. Output their name at least once.
-Ask player if they would like to play an EASY, MEDIUM or HARD game.
-easy = range of 1 to 10, limit tries to 5.
-medium = range of 1 to 100, limit tries to 8.
-hard = range of 1 to 1000, limit tries to 10.
-If the player doesn't guess the number in the required amount of tries, they lose the game.
-Keep track of the wins and loses for the player, displaying the score before asking if they would like to play again. 
-Be sure to create a comment at the top of the program with your name, the date, and the class number, and assignment name.
-Include comments to describe what you are doing in your program. Refer to your textbook code examples for an appropriate level of comments. """
 
 wins = int(0)
 losses = int(0)
